@@ -1,1 +1,1 @@
-from app-Gestpaiement.models.montant import *
+from app_Gestpaiement.models.montant import *
